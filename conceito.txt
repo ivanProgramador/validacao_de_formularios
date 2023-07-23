@@ -1,0 +1,13 @@
+VALIDAÇÃO 
+
+A validação de um formulario deve conter um codigo que espere e teste os maxcimo de possibilidades possiveis
+se atentando ao maximo de erros que podem acontecer em relaçãio a validação.
+
+nome de usuario 
+tipo de usuario
+variveis vazias ou indefinidas 
+dados incorretos nos campos
+senhas incompletas
+
+falhas nesse tipo de codigo comprometem a segurança  e tambem a credibilidade da empresa fornecedora do software,
+fora outros prejuizos que isso pode causar a o cliente.  
