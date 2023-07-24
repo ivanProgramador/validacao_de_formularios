@@ -11,3 +11,18 @@ senhas incompletas
 
 falhas nesse tipo de codigo comprometem a segurança  e tambem a credibilidade da empresa fornecedora do software,
 fora outros prejuizos que isso pode causar a o cliente.  
+-------------------------------------------------------
+para executar um porcesso de validação tem algumas bibliotecas que o js oferece  para esse fim 
+as bibliotecas instalçadas ate aqui foram 
+
+express-flash
+express-session
+cookie-parser 
+
+---------------------------------------------------------
+embora os codigos de validação tenhan sido feitos de forma manual existe uma bibilioteca que póde facilitar mais ainda 
+esse processo e a biblioteca
+
+-validator 
+
+
